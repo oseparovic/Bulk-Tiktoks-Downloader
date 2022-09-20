@@ -1,4 +1,6 @@
 {
+  "name": "bulktiktok",
+  "version": "0.0.1",
   "dependencies": {
     "puppeteer": "^10.4.0",
     "puppeteer-extra": "^3.2.3",
